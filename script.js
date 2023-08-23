@@ -1,4 +1,4 @@
-unction project3D(x,y,z,vars){
+function project3D(x,y,z,vars){
 
 	var p,d;
 	x-=vars.camX;
